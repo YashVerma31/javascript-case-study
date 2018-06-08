@@ -1,0 +1,30 @@
+body{
+    background-color: lightgray;
+   
+}
+#taskTitle{
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+}
+#dueDate{
+    text-align: center;
+     margin-left: 10px;
+}
+#filterTasks{
+    border-radius: 5px;
+}
+td{
+    padding: 0px 12px 0px 12px;
+}
+button{
+    border-radius: 5px;
+}
+#taskTable{
+    border-color: black;
+    background-color: white;
+}
+.headrow{
+    border-color: black;
+    background-color: white;
+}
